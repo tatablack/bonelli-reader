@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Node.js defaul .gitignore file, according to Github
 lib-cov
 *.seed
 *.log
@@ -13,7 +13,7 @@ logs
 results
 
 npm-debug.log
-=======
-.c9revisions
 node_modules
->>>>>>> Initial commit
+
+# Cloud 9 hidden folder
+.c9revisions
