@@ -1,0 +1,56 @@
+{
+    "urls": {
+        "edicola": "http://www.sergiobonellieditore.it/auto/albi_in_edicola",
+        "prossimamente": "http://www.sergiobonellieditore.it/auto/albi_in_edicola?collocazione=3&rist=0"
+    },
+
+    "series": {
+        "uninteresting":  ["1", "7", "10", "18", "21", "36", "44", "45", "46", "49", "50", "62", "80", "92"],
+
+        "all": {
+            "1":  ["Tex",                            "Tex",              "2.90"],
+            "2":  ["Almanacco del West",             "Alm. del West",    "6.00"],
+            "4":  ["Julia",                          "Julia",            "3.40"],
+            "7":  ["Brendon",                        "Brendon",          ""],
+            "8":  ["Dampyr",                         "Dampyr",           "2.90"],
+            "10": ["Zagor",                          "Zagor",            ""],
+            "15": ["Nathan Never",                   "N.N.",             "2.90"],
+            "18": ["Dylan Dog",                      "D.D.",             ""],
+            "21": ["Dylan Dog Speciale",             "D.D. Spec.",       ""],
+            "28": ["Maxi Tex",                       "Maxi Tex",         "6.30"],
+            "30": ["Storie da Altrove",              "St. da Altr.",     "5.20"],
+            "33": ["Almanacco del Mistero",          "Alm. del Mistero", "6.00"],
+            "34": ["Almanacco della Fantascienza",   "Alm. della Fant.", "6.00"],
+            "36": ["Almanacco della Paura",          "Alm. della Paura", ""],
+            "37": ["Agenzia Alfa",                   "A. Alfa",          "6.50"],
+            "38": ["Martin Mystère Speciale",        "M.M. Spec.",       "6.20"],
+            "39": ["Nathan Never Speciale",          "N.N. Spec.",       "5.20"],
+            "40": ["Nathan Never Gigante",           "N.N. Gigante",     "7.00"],
+            "44": ["Zagor Speciale",                 "Zagor Spec.",      ""],
+            "45": ["Maxi Dylan Dog",                 "Maxi D.D.",        ""],
+            "46": ["Dylan Dog Gigante",              "D.D. Gigante",     ""],
+            "49": ["Maxi Zagor",                     "Maxi Zagor",       ""],
+            "50": ["Almanacco dell'Avventura",       "Alm. dell'Avv.",   "6.00"],
+            "52": ["Tex Gigante",                    "Tex Gigante",      "6.20"],
+            "62": ["Brendon Speciale",               "Brendon Spec.",    ""],
+            "66": ["Maxi Nathan Never",              "Maxi N.N.",        "6.20"],
+            "70": ["Almanacco del Giallo",           "Alm. del Giallo",  "6.00"],
+            "71": ["Martin Mystère",                 "M.M.",             "5.00"],
+            "72": ["Dampyr Speciale",                "Dampyr Spec.",     "5.20"],
+            "75": ["Asteroide Argo",                 "Asteroide Argo",   "5.20"],
+            "79": ["Romanzi a fumetti Bonelli",      "Rom. a Fum.",      "9.50"],
+            "80": ["Dylan Dog Color Fest",           "D.D. Color Fest",  ""],
+            "82": ["Universo Alfa",                  "Univ. Alfa",       "5.30"],
+            "84": ["Brad Barron Speciale",           "B.Barron Spec.",   "6.40"],
+            "85": ["Lilith",                         "Lilith",           "3.70"],
+            "88": ["Maxi Dampyr",                    "Maxi Dampyr",      "6.50"],
+            "91": ["Demian Speciale",                "Demian Spec.",     "6.40"],
+            "92": ["Zagor Gigante",                  "Zagor Gigante",    ""],
+            "93": ["Color Tex",                      "Color Tex",        "5.50"],
+            "94": ["Shanghai Devil",                 "S. Devil",         "2.90"],
+            "95": ["Saguaro",                        "Saguaro",          "2.90"],
+            "96": ["Le Storie",                      "Le Storie",        "3.50"],
+            "97": ["Dragonero",                      "Dragonero",        "3.30"]
+        }
+    }
+}
